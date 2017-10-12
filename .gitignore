@@ -1,0 +1,4 @@
+##ignore this file##
+/examples/Output
+*.o
+*.d
