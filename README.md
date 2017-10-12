@@ -44,4 +44,11 @@ The Bluetooth Mesh repository is organized as follows:
   - `tools` contains tools useful for development.
   - `bin` contains prebuilt binaries such as the bootloader (required for DFU).
   - `toolchain` contains target-specific build files such as startup, linker, scatter, and CMSIS files.
+  
+  
+  
+  
+  
+  
+the project base on nrf5_SDK_for_Mesh_v0.9.2-Alpha
 
